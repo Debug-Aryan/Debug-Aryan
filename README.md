@@ -10,9 +10,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## <picture><img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🎓 College student passionate about Backend Engineering & AI Systems  
 - 🤖 Backend & AI Engineer focused on production-grade solutions  
