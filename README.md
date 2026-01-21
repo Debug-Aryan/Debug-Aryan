@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Prajapati</h1>
-<h3 align="center">Backend & AI Engineer | Cloud & System Engineer | AI Integration Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=25&center=true&vCenter=true&width=700&height=100&lines=Backend+%26+AI+Engineer;Cloud+%26+System+Engineer;Production-Ready+AI+Systems;Scalable+Backend+Architecture;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C2FF&size=25&center=true&vCenter=true&width=700&height=100&lines=Backend+%26+AI+Engineer;Cloud+%26+Systems+Engineer;Production-Grade+AI+Systems;Scalable+Backend+Architecture;Continuous+Learner+in+Engineering">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=Debug-Aryan&label=Profile%20views&color=0e75b6&style=plastic" />
 </p>
 
 ---
@@ -29,9 +28,9 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aryanclg33@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Debug-Aryan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-prajapati-b9b9a5284"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,11 +94,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Debug-Aryan&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debug-Aryan&theme=tokyonight"/>
 </p>
 
 ---
@@ -107,7 +106,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Debug-Aryan/Debug-Aryan/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
