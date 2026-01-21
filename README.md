@@ -12,7 +12,7 @@
 
 ## <picture><img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 - 🎓 College student passionate about Backend Engineering & AI Systems  
 - 🤖 Backend & AI Engineer focused on production-grade solutions  
