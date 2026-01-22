@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 30px></picture>
+<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 - 🎓 College student passionate about Backend Engineering & AI Systems  
 - 🤖 Backend & AI Engineer focused on production-grade solutions  
@@ -133,14 +133,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Debug-Aryan&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Aryan&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-
-  ![GitHub Contribution Graph](https://github.com/Debug-Aryan/Debug-Aryan/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</p>
-
 </p>
 
 
