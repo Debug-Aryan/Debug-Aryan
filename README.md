@@ -8,11 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=Debug-Aryan&label=Profile%20views&color=0e75b6&style=plastic" />
 </p>
 
----
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/BreakLine.gif?raw=true" >  </picture> 
+
 
 ## <picture><img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 290px></picture>
+<picture> <img align="right" src="https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Right_Side.gif?raw=true" width = 30px></picture>
 
 - 🎓 College student passionate about Backend Engineering & AI Systems  
 - 🤖 Backend & AI Engineer focused on production-grade solutions  
@@ -35,10 +36,10 @@
 
 ---
 
-### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/TechStack.gif?raw=true" width = 50px>  </picture> Tech Stack
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/TechStack.gif?raw=true" width = 40px>  </picture> Tech Stack
 
 
-### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Programming_Language.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Programming_Language.gif?raw=true" width = 40px>  </picture> Programming languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white"/> &nbsp;&nbsp;
@@ -63,7 +64,7 @@
 
 ---
 
-### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Back_End.gif?raw=true" width = 50px>  </picture> Backend Development
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Back_End.gif?raw=true" width = 40px>  </picture> Backend Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white"/> &nbsp;&nbsp;
@@ -97,7 +98,7 @@
 
 ---
 
-### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/DataScience-AI.gif?raw=true" width = 50px>  </picture> Data Science & AI
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/DataScience-AI.gif?raw=true" width = 40px>  </picture> Data Science & AI
 
 
 <p align="center">
@@ -126,7 +127,7 @@
 
 ---
 
-### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> GitHub Stats
 
 
 <p align="center">
@@ -135,13 +136,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Debug-Aryan&theme=tokyonight" height="180"/>
-</p>
+
+  ![GitHub Contribution Graph](https://github.com/Debug-Aryan/Debug-Aryan/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </p>
 
+</p>
 
----
+
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/BreakLine.gif?raw=true" >  </picture> 
+
 
 ## 🐍 Contribution Graph
 
@@ -149,7 +153,7 @@
   <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
----
+### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/BreakLine.gif?raw=true" >  </picture> 
 
 ## 💬 Quote
 
@@ -157,7 +161,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming">
 </p>
 
----
 
 ### <picture> <img src = "https://github.com/Debug-Aryan/Debug-Aryan/blob/main/Images/BreakLine.gif?raw=true" >  </picture> 
 
