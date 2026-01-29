@@ -132,7 +132,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Debug-Aryan&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://metrics.lecoq.io/Debug-Aryan?template=classic&languages=1&languages.details=bytes-size&languages.limit=8&languagesthreshold=0%&theme=tokyonight"/>
+  <img src="https://metrics.lecoq.io/Debug-Aryan?languages=1&languages.limit=8&languages.details=percentage&theme=tokyonight" />
 </p>
 
 
